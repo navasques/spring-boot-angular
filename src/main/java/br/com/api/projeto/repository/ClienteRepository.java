@@ -6,4 +6,5 @@ import br.com.api.projeto.model.Cliente;
 
 public interface ClienteRepository extends JpaRepository<Cliente, Long>{
     
+    
 }
